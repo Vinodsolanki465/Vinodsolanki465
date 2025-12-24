@@ -80,10 +80,10 @@ UART • SPI • I2C • AMBA AHB • AXI • APB
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-das-14688432b" target="_blank">
+  <a href="https://www.linkedin.com/in/vinod-solanki-75388532b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:utkarsh2005das@gmail.com">
+  <a href="mailto: v744983@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
