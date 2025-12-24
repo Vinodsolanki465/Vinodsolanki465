@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
+![logo](https://github.com/Vinodsolanki465/Vinodsolanki465/blob/main/GitHub%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Vinod Solanki</h1>
 <h3 align="center">
