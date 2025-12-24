@@ -29,7 +29,7 @@ I aim to work on **reliable and well-verified digital systems**.
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,arduino,raspberrypi" />
 </p>
 
 **HDL & Verification**  
