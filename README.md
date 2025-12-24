@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 ![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
 
-<h1 align="center">Hi 👋, I'm Utkarsh Das</h1>
+<h1 align="center">Hi 👋, I'm Vinod Solanki</h1>
 <h3 align="center">
 ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
 </h3>
